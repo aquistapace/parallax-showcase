@@ -32,7 +32,7 @@
 
 ## 💻 Sobre o projeto
 
-O parallax show case é uma landing page desenvolvida para exemplificar o uso do efeito Parallax feito apenas com HTML e CSS , no caso desse projeto com  Styled-Components.
+O parallax show case é uma landing page desenvolvida para exemplificar o uso do efeito Parallax feito apenas com CSS-in-JS , no caso desse projeto desenvolvido com React foi utilizado o  Styled-Components.
 
 
 ---
@@ -51,10 +51,10 @@ O parallax show case é uma landing page desenvolvida para exemplificar o uso do
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
-- Página de Login , Home , Perfil do Dragão e Not Found
+- Página Home e de uma das Seções.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/home.png" width="400px">
-	  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/section.png" width="400px">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/parallax-showcase/blob/main/home.png" width="400px">
+	  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/parallax-showcase/blob/main/section.png" width="400px">
 	</p>
 
 
