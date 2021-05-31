@@ -38,6 +38,9 @@ O parallax show case é uma landing page desenvolvida para exemplificar o uso do
 ---
 
 ## 📺 Demo
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/parallax-showcase/blob/main/feriado.gif" width="600px">
+	</p>
 
 ---
 ## ⚙️ Funcionalidades
@@ -50,7 +53,9 @@ O parallax show case é uma landing page desenvolvida para exemplificar o uso do
 ### Web
 - Página de Login , Home , Perfil do Dragão e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/home.png" width="400px">
+	  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/section.png" width="400px">
+	</p>
 
 
 ---
