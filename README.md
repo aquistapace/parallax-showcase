@@ -1,46 +1,119 @@
-# Getting Started with Create React App
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/aquistapace/save-the-turles">
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  
 
-## Available Scripts
+  <a href="https://github.com/aquistapace">
+    <img alt="Feito por Caroline Aquistapace" src="https://img.shields.io/badge/feito%20por-Caroline-Aquistapace%237519C1">
+  </a>
+  
+  
+ 
+</p>
+<h1 align="center">
+   Parallax Show Case
+</h1>
 
-In the project directory, you can run:
+<h4 align="center"> 
+	 ⛅ Parallax Show Case
+</h4>
 
-### `yarn start`
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autora">Autora</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Sobre o projeto
 
-### `yarn test`
+O parallax show case é uma landing page desenvolvida para exemplificar o uso do efeito Parallax feito apenas com HTML e CSS , no caso desse projeto com  Styled-Components.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📺 Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
+## ⚙️ Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Ao scrollar a página o usuário consegue visualizar o efeito de parallax entre as imagens de cada seção.
+---
 
-### `yarn eject`
+## 🎨 Layout
+- O projeto desenvolvido possui Layout Responsivo.
+### Web
+- Página de Login , Home , Perfil do Dragão e Not Found
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+## 🚀 Como executar o projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+###  🎏Pré-requisitos
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### 🧭 Rodando a aplicação 
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:aquistapace/parallax-showcase.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd parallax-showcase
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+---
+
+## 🛠 Tecnologias
+As seguintes tecnologias foram usadas no desenvolvimento do projeto:
+- **[React](https://reactjs.org/)**  
+- **[TypeScript](https://www.typescriptlang.org/)**
+ -   **[Styled Components](https://styled-components.com/)**
+
+
+> Veja o arquivo  [package.json](https://github.com/aquistapace/parallax-showcase/blob/main/package.json)
+
+
+
+#### **Utilitários**
+
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
+-   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+
+
+---
+## 🦸 Autora
+
+ ### <sub><b>Caroline Aquistapace</b></sub></a> <a href="https://github.com/aquistapace" title="Git Hub">🌸</a>
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Caroline Aquistapace
+
+---
+
+
